@@ -1,0 +1,6 @@
+2025-05-05 16:37:59.212649, Plate: ao234, Type: sedan, Service: basin
+2025-05-05 16:38:16.234599, Plate: af8484, Type: suv, Service: premium
+2025-05-17 12:35:35.304087, Plate: 3443, Type: sedan, Service: basic
+2025-05-17 12:41:14.181548, Plate: 8989, Type: camry, Service: Gubka-aparat
+2025-05-17 15:31:59.980242, Plate: 6767, Type: camry , Service: Gubka-aparat
+2025-05-28 19:14:43.323440, Plate: camry, Type: sedan , Service: gubka-aparat
